@@ -22,6 +22,8 @@ nav a {
 }
 
 #featured-property p {
+  margin-inline-start: 50px;
+  margin-inline-end: 50px;
   text-align: center;
   background-color: grey
 }
