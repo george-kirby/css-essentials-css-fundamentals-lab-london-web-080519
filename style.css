@@ -9,5 +9,6 @@ header {
 }
 
 img {
-  margin: auto;
+  margin: auto
+  width: 20%;
 }
